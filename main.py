@@ -1,6 +1,3 @@
-# This file will use to score your implementations.
-# You should not change this file
-
 import os
 import pandas as pd
 import time
